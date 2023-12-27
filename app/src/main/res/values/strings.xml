@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">无障碍Demo</string>
+    <string name="ab_desc">基于无障碍服务跳过广告、自动点击喜欢</string>
+</resources>
